@@ -1,0 +1,15 @@
+_TODO: Main Page
+put contact information under my face
+make it so that the face and contact info stack to above the "thing" div
+
+_TODO: Reading List
+move cards up
+work on js to have rudimentry book list in book list section
+rank books by: favoritism, year published, alphabetical, 
+
+
+_general
+add a professional experence title to the experience page
+add a campus involvement section to the FSC page
+at the top of projects section put a carousel
+javascript use for reading list perhaps
